@@ -1,0 +1,24 @@
+# Idea #
+.idea
+*.iml
+*.ipr
+*.iws
+*.uml
+
+# Gradle #
+.gradle
+
+# Generated #
+out
+build
+build-info-env*
+classes
+activemq-data
+src/generated
+src/main/resources/static
+
+# Pid #
+*.pid
+
+# log #
+log
